@@ -1,3 +1,3 @@
 # This is the final git Setup 
-This repo is created locally by me
+This repo is created locally by myself
 
